@@ -8,4 +8,4 @@ test_and flutter
 Appium server настройка 192.0.0.1 port 4723 pach /wd/hub
 # Start test
 app должна быть запущена (не стал описывать конфиг установки приложения)
-команда для запуска  python -m pytest -v -s tests/test_mb.py
+команда для запуска  python -m pytest -v -s tests/test_div.py
