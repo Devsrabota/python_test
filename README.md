@@ -7,5 +7,5 @@ test_and flutter
 # Appium Server
 Appium server настройка 192.0.0.1 port 4723 pach /wd/hub
 # Start test
-app должна быть запущена (не стал описывать конфиг установки приложения)
+app должна быть запущена android studio(не стал описывать конфиг установки приложения)
 команда для запуска  python -m pytest -v -s tests/test_div.py
