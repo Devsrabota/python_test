@@ -1,6 +1,6 @@
 # python_test
 test_and flutter
-Установить python,pytest,selenium,appium,appium server
+Установить python,pytest,selenium,appium,appium server,android studio
 # lib python
 зависимости в файле requirements.txt
 команда для установки библиотек из python requirements.txt    -m pip install -r requirements.txt
